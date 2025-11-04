@@ -37,6 +37,7 @@ export default [
       eqeqeq: ['error', 'always'], // 强制 ===
       'prettier/prettier': 'error', // 将 Prettier 格式问题视为 ESLint 错误
     },
+    linebreakStyle: 'off',
   },
 
   // 2. TypeScript 配置：仅对 .ts/.tsx 文件生效
