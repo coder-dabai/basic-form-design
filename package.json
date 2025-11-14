@@ -24,8 +24,10 @@
     ]
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^2.10.1",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "sortablejs": "^1.15.6"
   },
   "devDependencies": {
     "@commitlint/cli": "^20.1.0",
