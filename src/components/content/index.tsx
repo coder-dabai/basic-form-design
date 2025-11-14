@@ -1,7 +1,9 @@
 const Content = () => {
   return (
     <>
-      <div className="w-full h-full">内容区</div>
+      <div className="flex-1 h-full border-r border-r-solid border-gray-300">
+        <div className="p-8px">内容区</div>
+      </div>
     </>
   );
 };
