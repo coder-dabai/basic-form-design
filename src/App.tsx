@@ -10,7 +10,7 @@ const App = () => {
         <div>
           <Header />
         </div>
-        <div className='flex h-[calc(100vh-60px)]'>
+        <div className="flex h-[calc(100vh-60px)]">
           <Goods />
           <Content />
           <Panel />

@@ -1,4 +1,4 @@
-import { GoodsType } from './types';
+import { GoodsType } from '../form/types';
 
 // 物料数据
 export const goodsList = [
